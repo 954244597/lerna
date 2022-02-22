@@ -1,6 +1,6 @@
 {
   "name": "cat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "SKY-MOBI\\weiming.chen <weiming.chen@firesoon.com>",
   "homepage": "https://github.com/954244597/lerna#readme",
@@ -10,8 +10,8 @@
     "lib": "lib",
     "test": "__tests__"
   },
-  "publishConfig":{
-    "registry":"http://localhost:4873/"
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   },
   "files": [
     "lib"

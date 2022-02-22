@@ -1,6 +1,6 @@
 {
   "name": "animal",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "SKY-MOBI\\weiming.chen <weiming.chen@firesoon.com>",
   "homepage": "https://github.com/954244597/lerna#readme",
@@ -13,8 +13,8 @@
   "files": [
     "lib"
   ],
-  "publishConfig":{
-    "registry":"http://localhost:4873/"
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   },
   "repository": {
     "type": "git",
