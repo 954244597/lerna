@@ -1,0 +1,16 @@
+{
+   "name": "sub-package-1", 
+   "version": "1.0.0",
+   "main": "src/index.js",
+   "scripts": {
+     "test": "echo "
+   },
+   "repository": { 
+     "type": "git",
+     "url": "https://xxx.com/xxx/xxx.git"
+   },
+   "publishConfig": {
+     "access": "public" 
+   }
+ }
+ 
