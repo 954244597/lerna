@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "publishConfig":{
+    "registry":"http://localhost:4873/"
+  },
   "files": [
     "lib"
   ],
@@ -22,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/954244597/lerna/issues"
-  }
+  },
+  "gitHead": "58bcda02f0567cb85c0361c9f073c2a7e85c0f46"
 }
